@@ -3,7 +3,6 @@
 #include "Shoe.h"
 #include "Player.h"
 #include "Dealer.h"
-#include "common.h"
 
 using namespace std;
 
